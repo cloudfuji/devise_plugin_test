@@ -9,7 +9,7 @@ gem 'sqlite3'
 
 
 gem 'devise'
-gem 'devise_bushido_authenticatable', :path => '/Users/kevisazombie/Projects/web/devise_cas_authenticatable'
+gem 'devise_bushido_authenticatable'
 
 # Gems used only for assets and not required
 # in production environments by default.
